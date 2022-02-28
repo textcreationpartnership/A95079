@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true narration of the title, government, and cause of the death of the late Charls Stuart King of England. VVritten for the satisfaction of all those that are not wilfully obstinate for a regal government, and neglecters or contemners of their own just liberties. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95079</idno>
+            <idno type="STC">Wing T2765</idno>
+            <idno type="STC">Thomason E541_14</idno>
+            <idno type="STC">ESTC R2083</idno>
+            <idno type="EEBO-CITATION">99867260</idno>
+            <idno type="PROQUEST">99867260</idno>
+            <idno type="VID">119565</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119565)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E541[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true narration of the title, government, and cause of the death of the late Charls Stuart King of England. VVritten for the satisfaction of all those that are not wilfully obstinate for a regal government, and neglecters or contemners of their own just liberties. Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotations on Thomason copy: "feb. 5. 1648"; the "9" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119565:1"/>
+            <!-- PDF PAGE 55 -->
+            <pb facs="tcp:119565:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>A true NARRATION OF THE Title, Government, and Cauſe OF THE DEATH Of the late <hi>CHARLS ST<g ref="char:V">Ʋ</g>ART</hi> King of ENGLAND.</p>
+            <p>VVritten for the ſatisfaction of all thoſe that are not wilfully obſtinate for a <hi>Regal Government,</hi> and neglecters or contemners of their own <hi>Juſt Liberties.</hi>
+            </p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. W.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119565:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb n="3" facs="tcp:119565:2"/>
+            <!-- PDF PAGE 56 -->
+            <head>A True Narration of the Title, Government, and Cauſe of the death of the late <hi>Charls Stuart</hi> King of <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Title of <hi>William</hi> the Conqueror, (by ſome ſirnamed the Baſtard) who firſt compelled our Engliſh Necks to bear his Norman Yoke, (whatever others may pretend) was by his ſword only, by power whereof, his ſucceſſors (even to this <hi>Charls Stuart,</hi> late King of England) have, as it were, forced the ſuffrage of the people to their ſeveral Elections and Coronations, and by the ſame power have maintained all their Actions, howſoever Injuſt, Tyrannous, and Il<g ref="char:EOLhyphen"/>legal, contrary to that ancient, known, and re<g ref="char:EOLhyphen"/>ceived opinion in Law, that the King is <hi>Singulis major, univerſis minor;</hi> by which unjuſt, uſurped, and Tyrannous power of Kings, they are become indeed (inſtead of ſhepherds, careful to defend their flocks) moſt ravenous Wolves, whoſe panches are never longer full, then they are de<g ref="char:EOLhyphen"/>vouring the ſilly ſheep, as may moſt plainly ap<g ref="char:EOLhyphen"/>pear in the late Bloody, and Tyrannous raign of this <hi>Charls Stuart,</hi> whoſe boundleſſe prerogative (had his ſword prevailed) had like a general in<g ref="char:EOLhyphen"/>undation, at once ſwallowed up both the Laws of the Land, the Liberties of the Subject, the
+<pb n="4" facs="tcp:119565:3"/>
+               <!-- PDF PAGE 57 -->Priviledges of Parliament; and turned the ſweet, and pleaſant ſtreams of the Goſpel (into that ſea of Antichriſt) into popiſh ſuperſtition. In the times of Peace, he was the moſt Covetous P. that ever raigned in England not caring how his Sub<g ref="char:EOLhyphen"/>jects were impoveriſhed or abuſed, ſo his private Coffers were inriched. He never cared to main<g ref="char:EOLhyphen"/>tain the Laws,<note place="margin">Witneſſe the Mono<g ref="char:EOLhyphen"/>polies, and Ship-mo<g ref="char:EOLhyphen"/>ney. Witneſſe the long vacancy of Parlia<g ref="char:EOLhyphen"/>ments, and the Illegal, proceed<g ref="char:EOLunhyphen"/>ings a<g ref="char:EOLhyphen"/>gainſt the Earl of Caſtle ha<g ref="char:EOLhyphen"/>ven; the overawing the Judges about ſhip<g ref="char:EOLhyphen"/>money, and the Tyranni<g ref="char:EOLhyphen"/>cal pro<g ref="char:EOLhyphen"/>ceedings of the Star-Chamber.</note> except ſuch as conduced to his own particular profit, or to the augmenting his Prerogative to that unlimited Power, that his Will like the great Turks, might-command the lives and fortunes of all his ſubjects. In point of Religion, his intents may be eaſily diſcerned, by intruding the new liturgy on the Kirk of Scotland, and that too immediately after his Coronation there, he well knowing that it could be no way conſiſtent with the Covenant by them taken, and maintained for ſome ages before, as alſo by en<g ref="char:EOLhyphen"/>joyning, and compelling the Communion Tables in England to be removed, and ſet Altar wiſe, with Altar-worſhip, (thereby making way for the introducing of Popery,) it being contrary to the known Laws of this Kingdom: We let ſlip his ambition of rule, though by common fame ſealed in his fathers blood. And fall to the point of that unparaleld piece of Tyrannie begun againſt the <hi>Scots,</hi> and ſince proſecuted againſt us, his late ſub<g ref="char:EOLhyphen"/>jects of England: To begin therefore with the <hi>Scots,</hi> who after many humble Petitions, and fruit<g ref="char:EOLhyphen"/>leſſe anſwers, were forced, for their own ſafeties, to take arms, yet with all ſubmiſſion (upon a Treaty, taking the Kings ſolemn engagement)
+<pb n="5" facs="tcp:119565:3"/>
+               <!-- PDF PAGE 57 -->laid them down, notwithſtanding the great charge they had been put to, and their unability to bear the ſame; after which peace, the end of war be<g ref="char:EOLhyphen"/>ing then expected; the conditions of the Treaty were ſo well kept, that the Spring following they were again forced, (for their refuge) to take Arms, in which then ſucceſſe is ſo notorious to all men, that the King not able to raiſe, or maintain an Army able to oppoſe them, was by neceſſity com<g ref="char:EOLhyphen"/>pelled to call a Parliament, only (as by the iſſue it appeared) to borrow moneys, (without any intent to ſatisfie the Subiect) which when he found he could not accompliſh, he not only ſuddenly diſ<g ref="char:EOLhyphen"/>ſolved, and impriſoned the Members, but by power of his own royal prerogative, as he cals it, (without conſent of Parliament) endeavored to impoſe on the free people of England the heavy tax of Tunnage and Poundage; which when he found that he could not wade through,<note place="margin">The <hi>Scots</hi> ly ſtill ly<g ref="char:EOLhyphen"/>able to be queſtioned for their firſt com<g ref="char:EOLhyphen"/>ing into England, not being authorized by King, nor Parli<g ref="char:EOLhyphen"/>ament.</note> the <hi>Scots</hi> at that time being come into the Kingdom, ne<g ref="char:EOLhyphen"/>ceſſity once more compelled him to call another Parliament, who in their wiſdoms, Contracted with the Scots for a great ſum of money to depart the Kingdom, and willingly condiſcended that the King ſhould go into Scotland, to compoſe, and ſettle buſineſſes there; which was no ſooner effected; and he well rid of the Scots, and recei<g ref="char:EOLhyphen"/>ved into the City of London with Joy and Tri<g ref="char:EOLhyphen"/>umph, but he had preſently his deſign on foot, how to be rid of this Parliament alſo, which by reaſon of the Act of Continuation, could not be otherwiſe effected, then by bringing up his Nor<g ref="char:EOLhyphen"/>thern
+<pb n="4" facs="tcp:119565:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 58 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:119565:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 58 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:119565:5"/>
+               <!-- PDF PAGE 59 -->Army (not then, disbanded) which ſailing, he reſolved to render his Act of Continu<g ref="char:EOLhyphen"/>ation (of Grace he called it) as fruitleſſe as poſ<g ref="char:EOLhyphen"/>ſible might be; whereupon he firſt makes way to ſend the Queen beyond Seas with the chief Jewels of the Crown, endeavoring, through her means, to move forraign Princes to ſend him aids, to make war upon his Rebellious Parliament, (as he called them) after whoſe departure, (contrary to all Laws, or the preſident of any his prede<g ref="char:EOLhyphen"/>ceſſors) he aſſociated with a company of rude and uncivil fellows, armed, came to the houſe of Commons to demand the five Members, and notwithſtanding he received the aſſurance of the houſe for their forth-coming, never ſo much as brought in any Charge againſt them, but finding himſelf fruſtrated in that his Tyrannous deſign, immediately left the Parliament, and repaired to <hi>Windſor,</hi> where he muſtered together many de<g ref="char:EOLhyphen"/>boyſed perſons, and Cavaliers, with promiſe of great preferments, and moneys, if they would at<g ref="char:EOLhyphen"/>tend him at York, which they accordingly did; he in the mean while trifling out the time (under the pretence of a Treaty about ſetling the Militia,) with the Parliament, firſt at <hi>Tyballs,</hi> after at <hi>Newmarket,</hi> &amp; at laſt at <hi>York</hi> in the mean time, demanding the Town of <hi>Hull,</hi> and providing Arms, Money, and Men to make an Army (the Parliament not yet dreaming of any ſuch matter) which he ſoon after performed, by ſetting up his Standard at <hi>Nottingham.</hi> And as this Army was trecherouſly raiſed, under the cunning pretence
+<pb n="7" facs="tcp:119565:5"/>
+               <!-- PDF PAGE 59 -->of a Treaty; ſo he hath proceeded with them,<note place="margin">Witneſs the falling on at <hi>Brainch<g ref="char:EOLhyphen"/>ford,</hi> on Col. <hi>Hollis</hi> his Regi<g ref="char:EOLhyphen"/>ment.</note> to deſtroy the good people under the ſame colour ever ſince, ſo long as he had an Army; in which time, on both ſides, above an hundred thouſand of the good people of <hi>England</hi> have been murthered and deſtroyed. And ſince the ſaid Armies by him raiſed, have been routed and diſperſed, and he himſelf as a priſoner at the diſ<g ref="char:EOLhyphen"/>poſe of Parliament and Army; how many new commotions (in <hi>Wales, Scotland, Kent, Eſſex, Surrey,</hi> and the Weſt) he hath contrived (as much as in him lay) to the utter deſtruction of this whole Nation, is ſufficiently manifeſt to all men, who are not more blinded in affection to the name of King, then in love with their own juſt liberties. And in the laſt Treaty in the Iſle of <hi>Wight,</hi> it did moſt evidently appear to the High Court of Juſtice, upon the examination of ſufficient wit<g ref="char:EOLhyphen"/>neſſes, That <hi>Charls Stuart</hi> (what pretences ſo ever he made, or what aſſurances ſoever he pretended to give) never did, nor ever would decline the late murther of his Subjects, but would ever ap<g ref="char:EOLhyphen"/>prove it as an act moſt juſt. Yet notwithſtanding all theſe tyrannies (ſo unwilling were the Parlia<g ref="char:EOLhyphen"/>ment to depoſe him, much more to take his (long ſince forfeited) life; that had he not ſent his two ſons beyond Seas, with Commiſſion to in<g ref="char:EOLhyphen"/>vade this Nation, and to rob and murther his good Subjects, both by Sea and Land (and at this very inſtant time of Treaty, plotted and en<g ref="char:EOLhyphen"/>devored a new diſturbance, by all means, labor<g ref="char:EOLhyphen"/>ing to engage the City of <hi>London</hi> to joyn with
+<pb n="8" facs="tcp:119565:6"/>
+               <!-- PDF PAGE 60 -->him in the ſame bloody deſigne) he might have yet remained unqueſtioned.</p>
+            <p>Thus having given the Reaſons that forced on the Kings ruine, and in him the diſabling the <hi>Norman</hi> Line for the future. All thoſe that are true lovers of Liberty, the Laws, Religion, and the Kingdoms welfare, may both feel and ſee themſelves unlooſed from the <hi>Norman</hi> Yoke, un<g ref="char:EOLhyphen"/>der which our forefathers have ſuffered for the ſpace of five hundred ſixty and two yeers; for which let all true Engliſhmen rejoyce, and with the Author, cry, <hi>Vivat Lex, Exercitus, vera Religo Senatus populuſque Angliae.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
